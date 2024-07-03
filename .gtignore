@@ -1,0 +1,5 @@
+# on mac
+.DS_Store
+.vscode
+.github
+.devcontainer
